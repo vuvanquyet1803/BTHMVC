@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Quyet\\MvcMovie\\MvcMovie.csproj": {}
+    "C:\\Users\\Quyet\\BTHMVC\\MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Quyet\\MvcMovie\\MvcMovie.csproj": {
+    "C:\\Users\\Quyet\\BTHMVC\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Quyet\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "C:\\Users\\Quyet\\BTHMVC\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\Users\\Quyet\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "C:\\Users\\Quyet\\BTHMVC\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\Quyet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Quyet\\MvcMovie\\obj\\",
+        "outputPath": "C:\\Users\\Quyet\\BTHMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -40,6 +40,26 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SQLite": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
