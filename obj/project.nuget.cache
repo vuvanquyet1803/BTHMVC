@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hT/+9pC0Ixexh0dFCwxkIeCBG3wKxS3JSUGosHXvqXCCl9YD+fC9cmzdr7tvQsMa3GFrdy0R9FBw/L8u+ZOVYw==",
+  "dgSpecHash": "7A3yhyPezzrGdKXV2kH1ZDUbX9CCkBY6sLTcYwB4Z0WwUehI4MIWl+ZEvrLkjE8kZBlc7WKBzeMoWqVkqywIJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Quyet\\BTHMVC\\MvcMovie.csproj",
+  "projectFilePath": "F:\\BTHMVC-master\\BTHMVC\\MvcMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Quyet\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Quyet\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

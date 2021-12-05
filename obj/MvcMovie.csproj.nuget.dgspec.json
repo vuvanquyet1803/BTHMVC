@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Quyet\\BTHMVC\\MvcMovie.csproj": {}
+    "F:\\BTHMVC-master\\BTHMVC\\MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Quyet\\BTHMVC\\MvcMovie.csproj": {
+    "F:\\BTHMVC-master\\BTHMVC\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Quyet\\BTHMVC\\MvcMovie.csproj",
+        "projectUniqueName": "F:\\BTHMVC-master\\BTHMVC\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\Users\\Quyet\\BTHMVC\\MvcMovie.csproj",
+        "projectPath": "F:\\BTHMVC-master\\BTHMVC\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\Quyet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Quyet\\BTHMVC\\obj\\",
+        "outputPath": "F:\\BTHMVC-master\\BTHMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

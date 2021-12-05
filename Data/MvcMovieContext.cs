@@ -21,4 +21,8 @@ using MvcMovie.Models;
         public DbSet<MvcMovie.Models.Product> Product { get; set; }
 
         public DbSet<MvcMovie.Models.Employee> Employee { get; set; }
+
+        public DbSet<MvcMovie.Models.LapTop> LapTop { get; set; }
+
+        public DbSet<MvcMovie.Models.Computer> Computer { get; set; }
     }
